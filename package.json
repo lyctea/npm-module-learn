@@ -1,0 +1,22 @@
+{
+  "name": "npm-module-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyctea/npm-module-learn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyctea/npm-module-learn/issues"
+  },
+  "homepage": "https://github.com/lyctea/npm-module-learn#readme",
+  "dependencies": {
+    "array-first": "^1.0.2"
+  }
+}
