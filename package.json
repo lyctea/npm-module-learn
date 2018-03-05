@@ -24,6 +24,11 @@
     "array-range": "^1.0.1",
     "dedupe": "^2.1.0",
     "filled-array": "^1.1.0",
-    "map-array": "^1.2.1"
+    "group-array": "^0.3.3",
+    "in-array": "^0.1.2",
+    "map-array": "^1.2.1",
+    "mirrarray": "^2.0.0",
+    "swap-array": "^1.0.0",
+    "unordered-array-remove": "^1.0.2"
   }
 }
